@@ -1,0 +1,51 @@
+body {
+    background-color:#433636de;
+    font-family: Arial, sans-serif;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+#converter{
+    margin: 100px auto;
+    max-width: 400px;
+    padding: 80px;
+    border: 10px solid #0b0a0e;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+button{
+    color: #562a49;
+    border: 3px solid  #0b0a0e;
+    transition: all ease .50s;
+    font-size: 26px;
+    padding: -2px;
+   
+}
+
+button:hover{
+    
+    border: 2px solid #0b0a0e;
+}
+#unit{
+    color: #562a49;
+    font-size: 20px;
+    padding: 4px;
+    margin: 40px;
+    border: 3px solid  #0b0a0e;
+    transition: all ease .50s;
+}
+#temperature{
+    color: #562a49;
+    font-size: 13px;
+    padding: 4px;
+    border: 3px solid  #0b0a0e;
+    transition: all ease .50s;
+}
+h2{
+    font-size: 36px; 
+}
+#converter label{
+    font-size: 26px;
+ 
+}
